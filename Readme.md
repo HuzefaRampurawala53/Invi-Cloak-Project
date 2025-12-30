@@ -1,3 +1,7 @@
+
+
+![Invisible cloak video for github](https://github.com/user-attachments/assets/a6987926-3b6c-477e-8b3c-5e78373ca320)
+
 # Invisible-Cloak-using-OpenCV
 Real-time Invisible Cloak using OpenCV and Computer Vision
 # 🧙 Invisible Cloak using OpenCV
@@ -46,4 +50,5 @@ git clone https://github.com/USERNAME/Invisible-Cloak-OpenCV.git
 python inv_cloak.py
 
 
+Also remeber you can change the color for the cloak in code
 
