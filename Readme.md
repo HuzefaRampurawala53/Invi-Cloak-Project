@@ -1,4 +1,4 @@
-![Invisible cloak video for github](https://github.com/user-attachments/assets/a6987926-3b6c-477e-8b3c-477e-8b3c-5e78373ca320)
+![Invisible cloak video for github](https://github.com/user-attachments/assets/a6987926-3b6c-477e-8b3c-5e78373ca320)
 
 # Invisible-Cloak-using-OpenCV
 Real-time Invisible Cloak using OpenCV and Computer Vision
