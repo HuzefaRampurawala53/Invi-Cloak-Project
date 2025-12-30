@@ -43,7 +43,7 @@ creating an invisibility illusion.
 git clone https://github.com/USERNAME/Invisible-Cloak-OpenCV.git
 
 ##Run the Program
-python invisible_cloak.py
+python inv_cloak.py
 
 
 
